@@ -1,0 +1,2 @@
+# GoCourse
+Learning Golang.
